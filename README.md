@@ -155,6 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Mohammed Amine Mounjid - [Github](https://github.com/amyn00) / [Twitter](https://twitter.com/Amyn_Crypto)
+
 ...................... - [Github](https://github.com/......) / [Twitter](https://twitter.com/...........)
 
 ## License
